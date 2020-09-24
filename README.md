@@ -15,3 +15,30 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gustavomoreira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavomoreira88@gmail.com)](mailto:gustavomoreira88@gmail.com)
 
+## Meus principais projetos públicos
+
+### Fullstack TypeScript
+
+🔹[GoBarber](https://github.com/MGustav0/gobarber2.0)
+
+🔹[Proffy](https://github.com/MGustav0/Proffy)
+
+🔹[Tutoriando](https://github.com/MGustav0/tutoriando)
+
+### Desafios front-end Mobile
+
+🔹[GoRestaurant](https://github.com/MGustav0/desafio-react-native-delivery)
+
+🔹[GoMarketplace](https://github.com/MGustav0/desafio-gostack-fundamentos-react-native)
+
+🔹[RocketShoes](https://github.com/MGustav0/rocketshoes-react-native)
+
+### Desafios front-end Web
+
+🔹[GoRestaurant](https://github.com/MGustav0/desafio-gostack-reactjs-crud)
+
+### Desafios back-end NodeJS
+
+🔹[Banco de Dados](https://github.com/MGustav0/desafio-gostack-database-relations)
+
+🔹[Upload de Arquivos](https://github.com/MGustav0/desafio-gostack-database-upload)
