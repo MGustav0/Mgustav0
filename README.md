@@ -1,7 +1,7 @@
 # Gustavo Moreira
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+Adoro resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
 🔭  &nbsp; Estou trabalhando como **Free Lancer**
