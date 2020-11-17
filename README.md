@@ -2,7 +2,7 @@
 
 🔹 [Perfil em Português-BR](#-perfil-em-portugues-br)
 
-🔹 [Perfil en Español-ES](#-perfil-en-espanol-es)
+🔹 [Perfil en Español-ES](#-perfil-en-español-es)
 
 ## Perfil em Português-BR
 
