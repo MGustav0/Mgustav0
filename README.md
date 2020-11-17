@@ -19,7 +19,7 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gustavomoreira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavomoreira88@gmail.com)](mailto:gustavomoreira88@gmail.com)
 
-## Hola gente 👋
+## Hola gente
 
 Me encanta resolver problemas mediante la programación.
 Soy un desarrollador Full Stack
