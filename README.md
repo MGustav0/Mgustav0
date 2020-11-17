@@ -19,38 +19,49 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gustavomoreira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavomoreira88@gmail.com)](mailto:gustavomoreira88@gmail.com)
 
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+45
+
+46
 
 
+46
+
+46
+
+46
+
+4
 
 
+64
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+6
 
 ## Hola gente
 
