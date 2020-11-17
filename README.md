@@ -26,7 +26,7 @@ Sou um FullStack Developer :computer:
 
 ## Perfil em Español-ES
 
-### Hola gente 👋
+### Hola gente
 
 Me encanta resolver problemas mediante la programación.
 Soy un desarrollador Full Stack
