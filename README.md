@@ -4,7 +4,7 @@
 
 🔹 [Perfil en Español](#perfil-en-espanol)
 
-[Hola gente 👋](#hola-gente-👋)
+[Hola gente](#hola-gente)
 
 ## Perfil em Português-BR
 
@@ -26,7 +26,7 @@ Sou um FullStack Developer :computer:
 
 ## Perfil em Español-ES
 
-### Hola gente 👋
+### Hola gente
 
 Me encanta resolver problemas mediante la programación.
 Soy un desarrollador Full Stack
