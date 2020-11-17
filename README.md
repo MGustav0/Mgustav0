@@ -1,10 +1,12 @@
 # Gustavo Moreira
 
-🔹 [Perfil em Português-BR](#-Olá-pessoal)
+🔹 [Perfil em Português-BR](#-perfil-em-portugues-br)
 
-🔹 [Perfil en Español-ES](#-Hola-gente)
+🔹 [Perfil en Español-ES](#-perfil-em-espanol-es)
 
-## Olá pessoal 👋
+## Perfil em Português-BR
+
+### Olá pessoal 👋
 Adoro resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
@@ -19,51 +21,10 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gustavomoreira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavomoreira88@gmail.com)](mailto:gustavomoreira88@gmail.com)
 
-1
 
-2
+## Perfil em Español-ES
 
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-45
-
-46
-
-
-46
-
-46
-
-46
-
-4
-
-
-64
-
-
-6
-
-## Hola gente
+### Hola gente 👋
 
 Me encanta resolver problemas mediante la programación.
 Soy un desarrollador Full Stack
