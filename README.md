@@ -1,7 +1,7 @@
 # Gustavo Moreira
 
-🔹 Perfil em Português-BR (# Olá pessoal 👋)
-🔹 Perfil en Español-ES (# Hola gente 👋)
+🔹 [Perfil em Português-BR] (# Olá pessoal 👋)
+🔹 [Perfil en Español-ES] (# Hola gente 👋)
 
 ## Olá pessoal 👋
 Adoro resolver problemas utilizando a programação.
