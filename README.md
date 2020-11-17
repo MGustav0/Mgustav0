@@ -4,7 +4,7 @@
 
 🔹 [Perfil en Español](#-perfil-en-espanol)
 
-🔹 [Hola Gente](#-hola-gente)
+🔹 [Hola gente](#-hola-gente)
 
 ## Perfil em Português-BR
 
