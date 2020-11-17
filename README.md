@@ -2,7 +2,7 @@
 
 🔹 [Perfil em Português](#perfil-em-portugues)
 
-🔹 [Perfil en Español](#perfil-en-espanol)
+🔹 [Perfil en Español](#perfil-en-español)
 
 [Hola gente](#hola-gente)
 
