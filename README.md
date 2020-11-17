@@ -1,10 +1,8 @@
 # Gustavo Moreira
 
-🔹 [Perfil em Português](#perfil-em-portugues)
+🔹 [Perfil em Português](#perfil-em-português)
 
 🔹 [Perfil en Español](#perfil-en-español)
-
-[Hola gente](#hola-gente)
 
 ## Perfil em Português
 
