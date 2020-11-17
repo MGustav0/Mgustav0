@@ -6,7 +6,7 @@
 
 [Hola gente](#hola-gente)
 
-## Perfil em Português-BR
+## Perfil em Português
 
 ### Olá pessoal 👋
 Adoro resolver problemas utilizando a programação.
@@ -24,7 +24,7 @@ Sou um FullStack Developer :computer:
 [![Gmail Badge](https://img.shields.io/badge/-gustavomoreira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavomoreira88@gmail.com)](mailto:gustavomoreira88@gmail.com)
 
 
-## Perfil em Español-ES
+## Perfil en Español
 
 ### Hola gente
 
