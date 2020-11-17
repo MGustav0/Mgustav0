@@ -1,10 +1,10 @@
 # Gustavo Moreira
 
-🔹 [Perfil em Português](#-perfil-em-portugues)
+🔹 [Perfil em Português](#perfil-em-portugues)
 
-🔹 [Perfil en Español](#-perfil-en-espanol)
+🔹 [Perfil en Español](#perfil-en-espanol)
 
-[Hola gente](#-hola-gente)
+[Hola gente](#hola-gente)
 
 ## Perfil em Português-BR
 
@@ -26,7 +26,7 @@ Sou um FullStack Developer :computer:
 
 ## Perfil em Español-ES
 
-### Hola gente
+### Hola gente 👋
 
 Me encanta resolver problemas mediante la programación.
 Soy un desarrollador Full Stack
