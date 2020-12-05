@@ -10,7 +10,7 @@
 Adoro resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
-🔭  &nbsp; Estou trabalhando como **Free Lancer**
+🔭  &nbsp; Atualmente não estou trabalhando.
  <br/> :purple_heart: &nbsp; Atualmente busco colaborar com projetos em Front-end usando React e Back-end com NodeJS, tudo com TypeScript!
  <br/> 🌱 &nbsp; Atualmente focado em me especializar em ReactJS e React Native com TypeScript.
  <br/> 👯 &nbsp; Atualmente não colaborando com nenhum projeto open-source, mas quero começar com o [AncapHub](https://github.com/ancaphub) e com o [ANCAP.SU](https://github.com/ancapsu)
@@ -29,7 +29,7 @@ Sou um FullStack Developer :computer:
 Me encanta resolver problemas mediante la programación.
 Soy un desarrollador Full Stack
 
-🔭  &nbsp; Estoy trabajando como **Free Lancer**
+🔭  &nbsp; Actualmente no estoy trabajando.
  <br/> :purple_heart: &nbsp; Actualmente busco colaborar con proyectos en Front-end usando React y Back-end con NodeJS, ¡todo con TypeScript!
  <br/> 🌱 &nbsp; Actualmente enfocado en especializarse en ReactJS y React Native con TypeScript.
  <br/> 👯 &nbsp; Actualmente no colaboro con ningún proyecto de código abierto, pero quiero empezar con [AncapHub](https://github.com/ancaphub) y con o [ANCAP.SU](https://github.com/ancapsu)
